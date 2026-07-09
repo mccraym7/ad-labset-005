@@ -20,7 +20,7 @@ The `scan → find → prioritise → remediate → verify` loop practiced here 
 
 ## Architecture
 
-![Nessus Vulnerability Scanning Architecture](./Lab5-Architecture-Diagram.png)
+![image alt](https://github.com/mccraym7/ad-labset-005/blob/80526a7f05355dc7e3781763b687d06ffa605afb/Lab5-Architecture-Diagram%5B1%5D.png)
 
 *Nessus scanner, targets, and the scan-to-report workflow, deployed inside a single Azure resource group.*
 
