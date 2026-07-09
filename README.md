@@ -130,7 +130,7 @@ In this lab I selected a Medium/High finding, applied the documented Solution, r
 
 | File | Description |
 |---|---|
-| [`Lab5-Nessus-Vulnerability-Scanning.docx`](./Lab5-Nessus-Vulnerability-Scanning.docx) | Full step-by-step lab documentation with screenshots, commands, and troubleshooting |
+| ![image alt](https://github.com/mccraym7/ad-labset-005/blob/c7692af358513026f90039b3f4632e2cf35ea53a/Lab5-Nessus-Vulnerability-Scanning%5B1%5D.docx) | Full step-by-step lab documentation with screenshots, commands, and troubleshooting |
 | [`Lab5-Architecture-Diagram.png`](./Lab5-Architecture-Diagram.png) | Reference architecture diagram |
 | `README.md` | This file |
 
